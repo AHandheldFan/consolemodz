@@ -7,7 +7,7 @@
   </head>
 
   <body>
-  <p style="text-align: center;"><span style="color: #339966;"><strong>SELECT YOUR PLATFORM BELOW:</strong></span></p>
+  <p style="text-align: center;"><span style="color: #008000;"><strong>SELECT YOUR PLATFORM BELOW:</strong></span></p>
     <header>
       <div class="container">
 
