@@ -14,7 +14,7 @@
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
-          <p style="text-align: center;"><img src="./img/xbox2.png" alt="" /></p>
+          <p><a href="https://petesoelite.github.io/xbox-retailmode-apps/"><img style="display: block; margin-left: auto; margin-right: auto;" src="./img/xbox.png" alt="" /></a> </p>
         </section>
       </div>
     </header>
