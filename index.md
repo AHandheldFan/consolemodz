@@ -7,7 +7,7 @@
   </head>
 
   <body>
-SELECT
+  <p style="text-align: center;"><span style="color: #00ff00;"><strong>SELECT YOUR PLATFORM</strong></span></p>
     <header>
       <div class="container">
 
