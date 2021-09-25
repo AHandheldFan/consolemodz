@@ -14,7 +14,7 @@
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
-          <p><img src="./img/xbox2.png" alt="" /></p>
+          <p style="text-align: center;"><img src="./img/xbox2.png" alt="" /></p>
         </section>
       </div>
     </header>
